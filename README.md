@@ -94,7 +94,7 @@ Kami terbuka untuk kontribusi! Jika Anda memiliki ide baru, tambahkan contoh ata
 ## 📧 Kontak  
 
 📩 Email: [ranggis@gmail.com](ranggis@gmail.com)  
-🌐 Website: [rranggis.com](https://ranggis.com)  
+🌐 Website: [ranggis.com](https://ranggis.com)  
 
 ---
 
